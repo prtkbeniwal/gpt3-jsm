@@ -1,0 +1,14 @@
+.blog {
+    background-color: black;
+    display: flex;
+    justify-content: center;
+}
+
+.blog>h1 {
+    font-family: var(--font-family);
+    font-style: normal;
+    font-weight: 800;
+    font-size: 62px;
+    line-height: 75px;    
+    letter-spacing: -0.04em;
+}
